@@ -1,0 +1,78 @@
+# depslib dependency file v1.0
+1666140634 source:c:\users\gonzalo\desktop\laboratorio 1\pplabo1 1a gonzalo agustín cossa\egen.c
+	"eGen.h"
+
+1666140633 c:\users\gonzalo\desktop\laboratorio 1\pplabo1 1a gonzalo agustín cossa\egen.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1666189018 source:c:\users\gonzalo\desktop\laboratorio 1\pplabo1 1a gonzalo agustín cossa\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"fecha.h"
+	"tipo.h"
+	"bicicleta.h"
+	"servicio.h"
+	"color.h"
+	"trabajo.h"
+
+1666181284 source:c:\users\gonzalo\desktop\laboratorio 1\pplabo1 1a gonzalo agustín cossa\fecha.c
+	"fecha.h"
+
+1666181300 c:\users\gonzalo\desktop\laboratorio 1\pplabo1 1a gonzalo agustín cossa\fecha.h
+
+1666190337 source:c:\users\gonzalo\desktop\laboratorio 1\pplabo1 1a gonzalo agustín cossa\color.c
+	"color.h"
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1666190285 c:\users\gonzalo\desktop\laboratorio 1\pplabo1 1a gonzalo agustín cossa\color.h
+
+1666189154 source:c:\users\gonzalo\desktop\laboratorio 1\pplabo1 1a gonzalo agustín cossa\funcionesmenu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funcionesMenu.h"
+
+1666190044 c:\users\gonzalo\desktop\laboratorio 1\pplabo1 1a gonzalo agustín cossa\funcionesmenu.h
+
+1666186406 source:c:\users\gonzalo\desktop\laboratorio 1\pplabo1 1a gonzalo agustín cossa\tipo.c
+	"tipo.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1666186406 c:\users\gonzalo\desktop\laboratorio 1\pplabo1 1a gonzalo agustín cossa\tipo.h
+
+1666189910 c:\users\gonzalo\desktop\laboratorio 1\pplabo1 1a gonzalo agustín cossa\bicicleta.h
+	"color.h"
+	"tipo.h"
+
+1666185071 c:\users\gonzalo\desktop\laboratorio 1\pplabo1 1a gonzalo agustín cossa\servicio.h
+
+1666181725 c:\users\gonzalo\desktop\laboratorio 1\pplabo1 1a gonzalo agustín cossa\trabajo.h
+
+1666188896 source:c:\users\gonzalo\desktop\laboratorio 1\pplabo1 1a gonzalo agustín cossa\bicicleta.c
+	"bicicleta.h"
+	"funcionesMenu.h"
+	"color.h"
+	"tipo.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1666185243 source:c:\users\gonzalo\desktop\laboratorio 1\pplabo1 1a gonzalo agustín cossa\servicio.c
+	"servicio.h"
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
